@@ -1,11 +1,18 @@
 # Site wide configuration
 
-title: So Simple Theme
+title: Fitnessbanban
 locale: en_US
-description: A simple and clean responsive Jekyll theme for words and photos.
+description: Just do it.
 logo: site-logo.png
 search: true
 url: http://s4redmax.github.io/so-simple-theme
+
+<div Class="js-menu-screen menu-screen"><div>
+<div Class="video">
+<figure>
+<iframe width="640" height="480" src="//www.youtube.com/embed/rgmilXajoGA" allowfullscreen></iframe>
+</figure>
+</div>
 
 
 # Jekyll configuration
