@@ -1,16 +1,16 @@
 # Site navigation links
 
-- title: About
-  url: /about/
+- title: How To
+  url: /How To/
 
-- title: Articles
-  url: /articles/
+- title: exercise
+  url: /exercise/
 
-- title: Blog
-  url: /blog/
+- title: Healthcare
+  url: /Healthcare/
 
-- title: Theme Setup
-  url: /theme-setup/
+- title: YouTube Channel
+  url: /YouTube Channel/
 
-- title: Made Mistakes
+- title: Health Knowledge
   url: http://mademistakes.com
